@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\bin\Debug\SyncOff.exe
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\bin\Debug\SyncOff.pdb
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Debug\SyncOff.Properties.Resources.resources
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Debug\SyncOff.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Debug\SyncOff.exe
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Debug\SyncOff.pdb
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Debug\SyncOff.SyncOff.resources
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Debug\SyncOff.csprojResolveAssemblyReference.cache

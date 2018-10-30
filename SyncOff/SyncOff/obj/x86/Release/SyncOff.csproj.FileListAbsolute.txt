@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\bin\Release\SyncOff.exe
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\bin\Release\SyncOff.pdb
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Release\SyncOff.SyncOff.resources
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Release\SyncOff.Properties.Resources.resources
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Release\SyncOff.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Release\SyncOff.exe
+C:\Users\Aluno\Desktop\SyncOff\SyncOff\obj\x86\Release\SyncOff.pdb
